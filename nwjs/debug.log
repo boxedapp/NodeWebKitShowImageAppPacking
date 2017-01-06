@@ -1,6 +1,0 @@
-[0106/140129:ERROR:file_io.cc(30)] read: expected 4, observed 0
-[0106/140129:ERROR:registration_protocol_win.cc(53)] CreateFile: Системе не удается найти указанный путь. (0x3)
-[0106/140130:ERROR:registration_protocol_win.cc(53)] CreateFile: Системе не удается найти указанный путь. (0x3)
-[0106/140405:ERROR:file_io.cc(30)] read: expected 4, observed 0
-[0106/140406:ERROR:registration_protocol_win.cc(53)] CreateFile: Системе не удается найти указанный путь. (0x3)
-[0106/140406:ERROR:registration_protocol_win.cc(53)] CreateFile: Системе не удается найти указанный путь. (0x3)
